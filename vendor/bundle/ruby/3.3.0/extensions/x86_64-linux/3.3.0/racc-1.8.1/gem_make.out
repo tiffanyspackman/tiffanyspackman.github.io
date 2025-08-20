@@ -1,0 +1,18 @@
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/home/tspackman/.rbenv/versions/3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250819-98600-3i76os sitelibdir\=./.gem.20250819-98600-3i76os clean
+
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250819-98600-3i76os sitelibdir\=./.gem.20250819-98600-3i76os
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250819-98600-3i76os sitelibdir\=./.gem.20250819-98600-3i76os install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250819-98600-3i76os/racc
+
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250819-98600-3i76os sitelibdir\=./.gem.20250819-98600-3i76os clean
