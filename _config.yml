@@ -65,11 +65,13 @@ plugins:
   - jekyll-paginate
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENCE
-  - vendor
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE"
+  - "vendor"
+  - "node_modules"
+  - ".github"
 
 # -----------
 # CloudCannon
