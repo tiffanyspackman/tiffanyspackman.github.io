@@ -1,0 +1,19 @@
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/tspackman/.rbenv/versions/3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250818-76075-vjikpx sitelibdir\=./.gem.20250818-76075-vjikpx clean
+
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250818-76075-vjikpx sitelibdir\=./.gem.20250818-76075-vjikpx
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250818-76075-vjikpx sitelibdir\=./.gem.20250818-76075-vjikpx install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250818-76075-vjikpx
+
+current directory: /home/tspackman/Documents/tiffanyspackman.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250818-76075-vjikpx sitelibdir\=./.gem.20250818-76075-vjikpx clean
