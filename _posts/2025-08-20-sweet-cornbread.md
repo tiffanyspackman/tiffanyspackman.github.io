@@ -23,5 +23,6 @@ recipe:
     4. Bake at 350F for 30 minutes. 
 ---
 Recipe from Melanie Adamson
+You can use store bought Bisquick mix for this recipe or make your own. Check out my post on making homemade bisquick mix! 
 
 
