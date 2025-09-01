@@ -50,6 +50,6 @@ recipe:
     2. Serve warm with vanilla ice cream :)
 
 ---
-This yummy pie recipe comes from page 224 of one of Tracy's favorite recipe books, *A Pinch of Salt Lake*, which Matt and Tracy were given for their wedding. Grandpa Max Pyne loved this apple pie so much that one of the gifts he gave his married grandchildren was this apple peeler/corer/slicer. "So you can make me more apple pies" he told them with a twinkle in his eye. Delicious with vanilla ice cream, or as Grandpa Pyne used to like this pie, with canned (evaporated) milk!
+This yummy pie recipe comes from pg 224 of one of Tracy's favorite recipe books, *A Pinch of Salt Lake*, which Matt and Tracy were given for their wedding. Grandpa Max Pyne loved this apple pie so much that one of the gifts he gave his married grandchildren was this apple peeler/corer/slicer. "So you can make me more apple pies," he told them with a twinkle in his eye. Delicious with vanilla ice cream, or as Grandpa Pyne used to like it, with canned (evaporated) milk!
 
-![Apple Peeler](/images/apple-pie-en-papillotte/apple_pie.jpg)
+![Apple Peeler](/images/apple-pie-en-papillotte/pyne_apple_peeler.jpg)
