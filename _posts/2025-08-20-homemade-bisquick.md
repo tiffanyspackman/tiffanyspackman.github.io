@@ -2,7 +2,7 @@
 date: 2025-08-20
 title: Homemade Bisquick Mix
 categories:
-  - Bread
+  - Breads
 featured_image: 
 recipe:
   servings: 

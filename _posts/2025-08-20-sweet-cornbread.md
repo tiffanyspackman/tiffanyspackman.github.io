@@ -2,7 +2,7 @@
 date: 2025-08-20
 title: Sweet Cornbread
 categories:
-  - Bread
+  - Breads
 featured_image:
 recipe:
   servings: 24 slices

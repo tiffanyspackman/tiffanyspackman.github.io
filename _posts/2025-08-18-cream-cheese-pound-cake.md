@@ -2,7 +2,7 @@
 date: 2025-08-18
 title: Cream Cheese Pound Cake
 categories:
-  - Cake
+  - Cakes
 featured_image: /images/cream-cheese-pound-cake/cream-cheese-pound-cake.jpg
 recipe:
   servings: 16 slices
