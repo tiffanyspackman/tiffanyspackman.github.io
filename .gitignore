@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 __pycache__/
+vendor/
+.jekyll-cache/
+.DS_Store
