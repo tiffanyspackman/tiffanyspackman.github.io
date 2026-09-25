@@ -3,7 +3,7 @@ date: 2026-06-24
 title: Grandma Ann Spackman's Butterhorn Rolls
 categories:
   - Breads
-featured_image: 
+featured_image: /images/butterhorn-rolls/butterhorn-rolls.jpg
 recipe:
   servings: Makes 36 rolls
   prep: 1 hour
