@@ -33,7 +33,7 @@ JEKYLL_FRONT_MATTER = re.compile(r"\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)", re
 POST_FILENAME = re.compile(r"^(\d{4})-(\d{2})-(\d{2})-(.+)\.(md|markdown|html)$", re.I)
 
 # Recipe vocabulary agreed 2026-09-25: plural everywhere.
-CANONICAL_CATEGORIES = {"Cakes", "Breads", "Pies", "Breakfasts", "Cookies", "Desserts"}
+CANONICAL_CATEGORIES = {"Cakes", "Breads", "Pies", "Breakfasts", "Cookies", "Desserts", "Mains"}
 LEGACY_SINGULAR = {"Cake": "Cakes", "Bread": "Breads", "Breakfast": "Breakfasts", "Cookie": "Cookies", "Dessert": "Desserts"}
 
 CORE_KEYS = ["date", "title", "categories", "recipe"]
