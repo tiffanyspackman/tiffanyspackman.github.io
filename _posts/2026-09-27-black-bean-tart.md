@@ -3,7 +3,7 @@ date: 2026-09-27
 title: Black Bean Tart
 categories:
   - Mains
-featured_image:
+featured_image: /images/black-bean-tart/black-bean-tart.jpg
 recipe:
   servings: 6-8 servings
   prep: 25-30 minutes

@@ -42,7 +42,12 @@ RECIPE_SOFT = ["servings", "prep", "cook"]                         # layout prin
 SOFT_KEYS = ["featured_image"]                                     # blank tile on /recipes/
 
 MAX_IMAGE_BYTES = 1_000_000        # hard: anything bigger blows the repo/disk budget
-TARGET_IMAGE_BYTES = 400_000       # soft: what a compressed 1560px phone photo weighs
+# Soft target. 400KB was a guess from "a compressed phone photo"; in practice a
+# detailed 1560px food photo (busy texture like the black bean tart) bottoms out
+# around 450-490KB before quality suffers visibly, and squeezing harder costs
+# width. Width is the real spec, so the soft bar sits at 500KB and the hard
+# limit at 1MB stays the thing that actually protects page weight.
+TARGET_IMAGE_BYTES = 500_000
 FEATURED_WIDTH = 1560
 MAX_INLINE_WIDTH = 2000
 MD_IMG = re.compile(r"!\[[^\]]*\]\(([^)\s]+)")
